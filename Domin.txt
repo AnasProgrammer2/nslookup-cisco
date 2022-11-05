@@ -1,0 +1,15 @@
+chat.cdn.whatsapp.net
+mmx-ds.cdn.whatsapp.net
+gateway.fe.apple-dns.net
+mask.apple-dns.net
+lh3.googleusercontent.com
+mask.icloud.com
+googlehosted.l.googleusercontent.com
+init-cdn.itunes-apple.com.akadns.net
+firebaselogging-pa.googleapis.com
+dl.listdl.com.akamaized.net
+a3.v.akamai.net
+mesu-cdn.apple.com.akadns.net
+iphone-ld.apple.com-v1.edgesuite.net
+init-cdn.itunes-apple.com.akadns.net
+iphone-ld.origin-apple.com.akadns.net
