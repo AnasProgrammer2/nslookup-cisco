@@ -42,6 +42,7 @@ output_folder_name = [folder name wll be storage of output files]
 ```
 
 ![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/4.png)
+<br>
 ![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/5.png)
 ![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/2.jpg)
 
