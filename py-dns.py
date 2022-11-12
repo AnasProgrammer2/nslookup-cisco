@@ -1,4 +1,11 @@
 #!/usr/bin/python3
+__author__ = "Anas Andullkarim"
+__copyright__ = "Copyright 2022, NBTEL"
+__license__ = "GPL"
+__version__ = "1.2"
+__maintainer__ = "NBTEL"
+__email__ = "anas.abdullkarim@gmail.com"
+__status__ = "Production"
 import argparse
 import socket
 import textwrap
@@ -40,7 +47,7 @@ class rgb():
     # and so on ...
 
 devloper_info ="\n --------------- \n by Anas Abdullkarim \n Nour Al-BADIYA ISP. \n anas.abdullkarim@gmail.com \n";
-help=" Router Supported V1.1 cisco_xr , cisco_xe ,cisco_nexus, huawei , mikrotik \n how to use : \n ./dnsacl --os cisco_xr  --acl_name BLOCK acl_type deny \n ./dnsacl --OS huawei  --acl_name GAME acl_type pemrit \n  "
+help=" Router Supported "+ __version__+" cisco_xr , cisco_xe ,cisco_nexus, huawei , mikrotik \n how to use : \n ./dns-acl --config config.ini  --apply_on_host  \n  "
 parser = argparse.ArgumentParser(
       prog='Domain to ACL by',
       formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -134,13 +141,18 @@ count = 0
 for domain in Lines:
  count += 1
  #print("Line{}: {}".format(count, domain.strip()))
- domain =domain.strip(); 
- ais = socket.getaddrinfo(domain,0,0,0,0)
+ domain =domain.strip();
+ try:
+  ais = socket.getaddrinfo(domain,0,0,0,0)
+ except socket.gaierror as e:
+        continue
 
+    
  for result in ais:
    if validIP(result[-1][0]):
     ip_list.append(result[-1][0])
     #print("permit ipv4 host {} any".format( result[-1][0]))
+ 
  ip_list = list(set(ip_list))
   
 
