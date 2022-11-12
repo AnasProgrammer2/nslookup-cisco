@@ -41,6 +41,10 @@ output_folder_name = [folder name wll be storage of output files]
 #./nsacl --config config.ini --apply_on_host
 ```
 
+
+![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/1.JPG)
+![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/2.jpg)
+
 ## Help
 
 Any advise for common problems or issues.
