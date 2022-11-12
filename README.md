@@ -1,10 +1,12 @@
 # Project Title
 
-Simple overview of use/purpose.
+Dns resolver to ACL of Vander network 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+
+ dirrecly convert any domain to ip access-list(ipv4) 
+support muilt-vander cisco_xr,cisco_xe,cisco_nexus,huawei,mikrotik
 
 ## Getting Started
 
@@ -66,7 +68,6 @@ Inspiration, code snippets, etc.
 
 
 
-<h1>Dns resolver to ACL of Vander network (Cisco , huawei , mikroti</h1>k)
 
 <b> dirrecly convert any domain to ip access-list(ipv4) </b>
 <Br>
