@@ -240,4 +240,4 @@ if getConfrim ==1:
      remote_conn.close();
      print("apply ACL to rotuer has successful")
  
-  
+print(color_text("------------------------------------ ",rgb.RED))

@@ -1,3 +1,3 @@
-domains to ACL cisco router 
+Dns resolver to ACL of Vander network (Cisco , huawei , mikrotik)
 # nslookup-to-ACL
-# nslookup-to-ACL
+<B>How to use</B>
