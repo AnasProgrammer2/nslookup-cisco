@@ -1,4 +1,4 @@
-# Dns resolver to ACL of Vander network 
+# Dns resolver to ACL of Vander Routers/Switchs 
 
 ## Description
 
