@@ -1,4 +1,9 @@
 <h1>Dns resolver to ACL of Vander network (Cisco , huawei , mikroti</h1>k)
+
+<b> dirrecly convert any domain to ip access-list(ipv4) </b>
+<Br>
+<b>support muilt-vander cisco_xr,cisco_xe,cisco_nexus,huawei,mikrotik </b>
+<Br>
 # nslookup-to-ACL
 <B>How to use</B>
 
