@@ -38,15 +38,12 @@ output_folder_name = [folder name wll be storage of output files]
 <Br>
 
 ```
- <code>#./nsacl --config config.ini --apply_on_host<code>
+#./nsacl --config config.ini --apply_on_host
 ```
 
 ## Help
 
 Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
