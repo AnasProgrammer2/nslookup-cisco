@@ -19,7 +19,7 @@ acl_type =[ACL action (deny | permit)]
 output_folder_name = [folder name wll be storage of output files]
 <br>
 
-<h3>2- execute a software with use Argument Parser </h3>
+<h3>2- execute a software with use Argument  </h3>
 <Br>
 <b>--config<B> choose file of config (like config.ini)
 <br>
