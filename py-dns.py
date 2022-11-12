@@ -13,8 +13,7 @@ import requests
 import paramiko
 from operator import truediv
 import urllib3
-#urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 #text = input("enter path of file text: ") 
 
