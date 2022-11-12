@@ -27,4 +27,4 @@ output_folder_name = [folder name wll be storage of output files]
 <Br>
 <b>example </b>: 
 <Br>
- <code>#./nsacl --config [config file name] --apply_on_host<code>
+ <code>#./nsacl --config config.ini --apply_on_host<code>
