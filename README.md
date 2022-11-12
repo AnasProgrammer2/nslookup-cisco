@@ -11,7 +11,7 @@ support muilt-vander cisco_xr,cisco_xe,cisco_nexus,huawei,mikrotik
 
 ### Executing program
 
-
+<h3>1- update config file (config.ini) with information </h3>
 <br>
 ipaddress = [ip address of Host]
 <br>
