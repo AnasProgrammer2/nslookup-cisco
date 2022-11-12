@@ -21,10 +21,10 @@ output_folder_name = [folder name wll be storage of output files]
 
 <h3>2- execute a software with use Argument  </h3>
 <Br>
-<b>--config<B> choose file of config (like config.ini)
+<b>--config<B> :  choose file of config (like config.ini)
 <br>
-<b>--apply_on_host<B> for apply ACL to host dirreclty 
+<b>--apply_on_host<B>  : for apply ACL to host dirreclty 
 <Br>
-example : 
+<b>example </b>: 
 <Br>
  <code>#./nsacl --config [config file name] --apply_on_host<code>
