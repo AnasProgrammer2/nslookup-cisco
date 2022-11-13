@@ -229,7 +229,7 @@ if getConfrim ==1:
      Lines = file2.readlines()
      if osHost =='cisco_xr' or 'cisco_se' or 'cisco_nexus' :
       remote_conn.send('configure terminal \n') 
-      time.sleep(0.3)
+      time.sleep(3)
      
      
      if osHost =='huawei' :
@@ -239,7 +239,7 @@ if getConfrim ==1:
       print(configline)
       remote_conn.send(configline)
       remote_conn.send(' \n') 
-      time.sleep(0.3)
+      time.sleep(2)
 
 
      if osHost =='cisco_xr':
