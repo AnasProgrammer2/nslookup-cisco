@@ -227,7 +227,7 @@ if getConfrim ==1:
      print("API connection established to Router " + ip_addr)
      remote_conn = remote_conn_pre.invoke_shell()
      Lines = file2.readlines()
-     if osHost =='cisco_xr' or 'cisco_se' or 'cisco_nexus' :
+     if osHost =='cisco_xr' or 'cisco_xe' or 'cisco_nexus' :
       remote_conn.send('configure terminal \n') 
       time.sleep(3)
      
