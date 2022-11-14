@@ -1,6 +1,15 @@
-<h1>Dns resolver to ACL of Vander network (Cisco , huawei , mikroti</h1>k)
-# nslookup-to-ACL
-<B>How to use</B>
+# Dns resolver to ACL of Vander Routers/Switchs 
+
+## Description
+
+
+ dirrecly convert any domain to ip access-list(ipv4) 
+ <br>
+support muilt-vander cisco_xr,cisco_xe,cisco_nexus,huawei,mikrotik
+<br>
+
+
+### Executing program
 
 <h3>1- update config file (config.ini) with information </h3>
 <br>
@@ -21,10 +30,35 @@ output_folder_name = [folder name wll be storage of output files]
 
 <h3>2- execute a software with use Argument  </h3>
 <Br>
-<b>--config<B> :  choose file of config (like config.ini)
+--config :  choose file of config (like config.ini)
 <br>
-<b>--apply_on_host<B>  : for apply ACL to host dirreclty 
+--apply_on_host : for apply ACL to host dirreclty 
 <Br>
 <b>example </b>: 
 <Br>
- <code>#./nsacl --config config.ini --apply_on_host<code>
+
+```
+#./nsacl --config config.ini --apply_on_host
+```
+
+![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/4.png)
+<br>
+![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/5.png)
+![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/2.jpg)
+
+## Help
+
+Any advise for common problems or issues.
+
+## Authors
+
+Contributors names and contact info
+
+ex.  Anas abdullkarim
+
+## Version History
+
+
+
+
+

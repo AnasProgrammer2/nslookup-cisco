@@ -159,4 +159,16 @@ cloud.gsdk.proximabeta.com
 cloud.gsdk.proximabeta.com
 gvoice-config.igamecj.com
 star-mini.c10r.facebook.com
+<<<<<<< HEAD
 m.facebook.com
+=======
+m.facebook.com
+a1806.dscw154.akamai.net
+chat-e2ee-mini.facebook.com
+rupload.facebook.com
+scontent.xx.fbcdn.net
+e17437.dsct.akamaiedge.net
+mmx-ds.cdn.whatsapp.net
+chat-e2ee-mini.c10r.facebook.com
+e3925.dscx.akamaiedge.net
+>>>>>>> 6af25cec142123ce50302cc681e864eb5d1ff41d
