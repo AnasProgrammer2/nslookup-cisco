@@ -38,7 +38,7 @@ output_folder_name = [folder name wll be storage of output files]
 <Br>
 
 ```
-#./nsacl --config config.ini --apply_on_host
+#python3 py-dns.py --config config.ini --apply_on_host
 ```
 
 ![alt text](https://github.com/AnasProgrammer2/nslookup-cisco/blob/main/4.png)
