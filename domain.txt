@@ -404,3 +404,6 @@ outlook.office.com
 maktoob.yahoo.com
 mail.yahoo.com
 gmail.com
+relay-058f44e1.net.anydesk.com
+relay-e8b44cfa.net.anydesk.com
+boot.net.anydesk.com
