@@ -397,3 +397,10 @@ kr.voice.gcloudcs.com
 ru.voice.gcloudcs.com
 us.voice.gcloudcs.com
 sg.tdatamaster.com
+mail.google.com
+signaler-pa.clients6.google.com
+play.google.com
+outlook.office.com
+maktoob.yahoo.com
+mail.yahoo.com
+gmail.com
