@@ -202,7 +202,7 @@ if osHost==os_List[3]: #huawei
     
 if osHost==os_List[4]: #mikrotik 
  for host in ip_list:
-    f.writelines("\n ip firewall address-list add address={} list={}".format(host,acl_name))
+    f.writelines("\n ip firewall address-list address={} list={}".format(host,acl_name))
     print(" ip firewall address-list add address={} list={}".format(host,acl_name))
 
 f.close();
@@ -228,10 +228,10 @@ if getConfrim ==1:
      remote_conn = remote_conn_pre.invoke_shell()
      Lines = file2.readlines()
      if osHost =='cisco_xr' or 'cisco_xe' or 'cisco_nexus' :
-      remote_conn.send('configure terminal \n') 
       time.sleep(3)
-     
-     
+      remote_conn.send('configure terminal \n')
+      time.sleep(3)
+
      if osHost =='huawei' :
       remote_conn.send('sys \n') 
       time.sleep(0.3)
