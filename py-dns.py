@@ -219,7 +219,7 @@ else:
 
 if getConfrim ==1:
      file2 = open(temp_file, 'r')
-     time.sleep(0.5)
+     time.sleep(1)
      remote_conn_pre = paramiko.SSHClient()
      remote_conn_pre
      remote_conn_pre.set_missing_host_key_policy(paramiko.AutoAddPolicy())
@@ -233,8 +233,9 @@ if getConfrim ==1:
       time.sleep(3)
 
      if osHost =='huawei' :
+      time.sleep(2)
       remote_conn.send('sys \n') 
-      time.sleep(0.3)
+      time.sleep(2)
      for configline in Lines: 
       print(configline)
       remote_conn.send(configline)
