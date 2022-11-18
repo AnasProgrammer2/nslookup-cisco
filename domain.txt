@@ -442,4 +442,7 @@ collector.github.com
 i.ytimg.com
 yt3.ggpht.com
 www.youtube.com
+<<<<<<< HEAD
 redirector.googlevideo.com
+=======
+>>>>>>> c902841ad195a72c873111101ba88bcfd5c0a5fb
