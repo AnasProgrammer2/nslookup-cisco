@@ -33,6 +33,9 @@ a1796.h.akamai.net
 a1806.dscw154.akamai.net
 a1820.d.akamai.net
 a1935.d.akamai.net
+psn.gs2.map.fastly.net
+psn-rsc.prod.dl.playstation.net
+psn-rsc.prod.dl.playstation.net.edgekey.net
 a1944.dscv.akamai.net
 a1951.v.akamai.net
 a1991.dscv.akamai.net
@@ -464,3 +467,10 @@ xforgeassets002.xboxlive.com
 youtu.qq.com
 yt3.ggpht.com
 z-p42-chat-e2ee-ig.facebook.com
+psn-rsc.prod.dl.playstation.net.edgekey.net
+ic.c1db7000.14ae99.gs2.sonycoment.loris-e.llnwd.net
+ic.c1db7000.098858.gs2.sonycoment.loris-e.llnwd.net
+ic.c1db7000.131332.gs2.sonycoment.loris-e.llnwd.net
+cdn-a.sonyentertainmentnetwork.com
+cdn-a2.sonyentertainmentnetwork.com.edgekey.net
+wz-ps4-auth3.prod.demonware.net
