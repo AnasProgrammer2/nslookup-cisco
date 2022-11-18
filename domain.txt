@@ -431,3 +431,15 @@ wildb.api.np.km.playstation.net.edgekey.net.globalredir.akadns.net
 alb001-push-cc2s01.push.usw2.np.cn.s0.playstation.net
 alb001-pushcl.np.communication.playstation.net
 gs2-sec.ww.prod.dl.playstation.net
+a.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+f.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+x-eu.5a524551faffc9d5ed5b0f9fb38b5db813cb6ae2946fee336b218ab9.com
+github.com
+api.github.com
+avatars.githubusercontent.com
+github.githubassets.com
+collector.github.com
+i.ytimg.com
+yt3.ggpht.com
+www.youtube.com
+redirector.googlevideo.com
