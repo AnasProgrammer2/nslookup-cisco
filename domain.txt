@@ -698,3 +698,4 @@ beacons-handoff.gcp.gvt2.com
 eu-central-courier-4.push-apple.com.akadns.net
 beacons.gcp.gvt2.com
 tiktok.freeflow.sched.ovscdns.net
+gce-beacons.gcp.gvt2.com
