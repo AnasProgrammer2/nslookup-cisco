@@ -693,3 +693,4 @@ dw97.uptodown.com
 dw98.uptodown.com
 dw99.uptodown.com
 chat-e2ee-ig-p42.c10r.facebook.com
+chat-e2ee-mini.facebook.com
