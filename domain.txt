@@ -710,3 +710,8 @@ dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com
 e2927.b.akamaiedge.net
 safebrowsing.googleapis.com
 a1845.dscb.akamai.net
+7004-shadow.igamecj.com
+5006-shadow.igamecj.com
+ZRH-efz.ms-acdc.office.com
+eu-fra.shadow.igamecj.com
+a1051.dscw154.akamai.net
