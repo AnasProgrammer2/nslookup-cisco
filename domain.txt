@@ -1249,3 +1249,5 @@ account.np.ac.playstation.net
 34-213-150-64-pushcl.np.communication.playstation.net
 13673-wildcard.np.community.playstation.net.edgekey88.net
 13673-wildcard.np.community.playstation.net.edgekey.net.globalredir.akadns.net
+telemetry-in.battle.net
+alert-eu.battle.net
