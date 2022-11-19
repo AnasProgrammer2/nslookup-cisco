@@ -700,3 +700,11 @@ beacons.gcp.gvt2.com
 tiktok.freeflow.sched.ovscdns.net
 gce-beacons.gcp.gvt2.com
 youtube-ui.l.google.com
+hcdnl.pulldyin.ovc.gslb.rocket-cdn.com
+a1744.dscw154.akamai.net
+e28622.a.akamaiedge.net
+pull-oversea-total.s.worldfcdn.com
+a1951.v.akamai.net
+get-bx.g.aaplimg.com
+dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com
+e2927.b.akamaiedge.net
