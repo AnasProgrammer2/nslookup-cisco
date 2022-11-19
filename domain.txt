@@ -709,3 +709,4 @@ get-bx.g.aaplimg.com
 dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com
 e2927.b.akamaiedge.net
 safebrowsing.googleapis.com
+a1845.dscb.akamai.net
