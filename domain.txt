@@ -1067,3 +1067,11 @@ assets2.xboxlive.com
 assets1.xboxlive.com.edgesuite.net
 assets1.xboxlive.com.c.footprint.net
 assets1.xboxlive.com
+api.club.gpubgm.com
+cdn.club.gpubgm.com
+cdn.club.gpubgm.com.tegsea.tc.qq.com
+grpc.club.gpubgm.com
+napubgm.broker.amsoveasea.com
+www.pubgmobile.com
+www.pubgmobile.com.cdn.ettdnsv.com
+www.pubgmobile.com.edgesuite.net
