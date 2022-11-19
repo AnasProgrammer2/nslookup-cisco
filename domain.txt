@@ -708,3 +708,4 @@ a1951.v.akamai.net
 get-bx.g.aaplimg.com
 dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com
 e2927.b.akamaiedge.net
+safebrowsing.googleapis.com
