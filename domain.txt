@@ -1033,3 +1033,11 @@ pull-a5-sg01.tiktokcdn.com
 pull-a5-gcp01.tiktokcdn.com.c.worldfcdn.com
 pull-a5-gcp01.tiktokcdn.com
 flv.ab.tiktokcdn.com.liveplay.myqcloud.com
+flv.ab.tiktokcdn.com.liveplay.myqcloud.com
+www.feelinsonice.com
+feelinsonice.l.google.com
+feelinsonice.appspot.l.google.com
+feelinsonice-mvm.l.google.com
+feelinsonice-hrd.appspot.com
+sc-analytics.appspot.com
+a.root-servers.net
