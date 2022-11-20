@@ -145,12 +145,15 @@ for domain in Lines:
  try:
   ais = socket.getaddrinfo(domain,0,0,0,0)
  except socket.gaierror as e:
+        print(color_text("error of domain :" + domain , rgb.RED))
         continue
+
 
     
  for result in ais:
    if validIP(result[-1][0]):
     ip_list.append(result[-1][0])
+   print(color_text(domain + " is ok ." , rgb.GREEN))
     #print("permit ipv4 host {} any".format( result[-1][0]))
  
  ip_list = list(set(ip_list))
