@@ -917,8 +917,6 @@ yt3.ggpht.com
 youtubethumbnails.net
 youtubei.googleapis.com
 youtube-ui.l.google.com
-y6jn8c31bo2ac3du6t4w6pwuugm73si3gf4oy3dl8f6194716b...
-y6jn8c31bo2ac3du6t4w6pwuugm73si3gf4oy3dl675d5074e9...
 y.tcp.push.mob.com
 x.bidswitch.net
 www3.l.google.com
@@ -1771,7 +1769,6 @@ emea.lpcdn.lpsnmedia.livepersonk.akadns.net
 elb-aws-ie-rockabox-scoota-2052063539.eu-west-1.el...
 elb-aws-fr-zagreb-1702672115.eu-central-1.elb.amaz...
 elb-aws-fr-dorpat-283474803.eu-central-1.elb.amazo...
-efac085cde9e3f86642fde38aecdfadf.safeframe.googles...
 edger-edger-ra7qmuyuwxzs-482101627.us-west-2.elb.a...
 edger-edger-4e3vcwvnek77-1367313377.us-east-2.elb....
 edgedl.me.gvt1.com
@@ -1786,7 +1783,6 @@ e9957.b.akamaiedge.net
 e9659.dspg.akamaiedge.net
 e96286.g.akamaiedge.net
 e96286.dsci.akamaiedge.net
-e93e2082ec1339bbf1c54473dcf57e52.safeframe.googles...
 e9126.x.akamaiedge.net
 e8960.e2.akamaiedge.net
 e8960.b.akamaiedge.net
@@ -1875,7 +1871,6 @@ dc.trafficmanager.net
 dc.services.visualstudio.com
 dc.applicationinsights.microsoft.com
 dc.applicationinsights.azure.com
-db5b7873ee6fb9f804ba3ed64d895c65.safeframe.googles...
 d9.flashtalking.com
 d3rxaij56vjege.cloudfront.net
 d3div1mtym39ic.cloudfront.net
@@ -1977,7 +1972,6 @@ chat-e2ee-mini.c10r.facebook.com
 charlotte.speed.googlefiber.net
 certify.alexametrics.com
 census.ap-southeast-1.nielsencollections.com
-ce7289b10112c66629df5f54d9f061a6.safeframe.googles...
 ce.lijit.com
 cds.x3r8v6j3.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
@@ -2022,7 +2016,6 @@ ca.iadsdk.apple.com
 c2shb.ssp.yahoo.com
 c2shb.pubgw.yahoo.com
 c21lg-d.media.net
-c200097098119a0983af4a4ea0c55728.safeframe.googles...
 c1.microsoft.com
 c1.adform.net
 c.speedtestcustom.com
@@ -2077,7 +2070,6 @@ beacon-ams3.rubiconproject.net.akadns.net
 beacon-ams3.rubiconproject.com
 bc-ssb-dub.springserve.com
 bag.itunes.apple.com
-bae43ea43379ee8781077e927f41962c.safeframe.googles...
 b1t-eudc1.zemanta.com
 b1sync.zemanta.com
 b1-eudc1.zemanta.com
@@ -2228,7 +2220,6 @@ a1814.dscdi3.akamai.net
 a1806.dscd.akamai.net
 a179.b.akamai.net
 a1778.g2.akamai.net
-a1754bd1ba0edfae266ed274506cde83.safeframe.googles...
 a1449.dscg2.akamai.net
 a1241.dsct.akamai.net
 a1.etrality.com
@@ -2243,11 +2234,8 @@ a.nel.cloudflare.com
 a.audrte.com
 a-emea.rfihub.com.akadns.net
 7132270a98b841fd8deb7aeaf9c28963.pacloudflare.com
-6202eba2ec0e84dec32ca56f870c2ee5.safeframe.googles...
 5bcat3pqy4j0bn5m.aliyunddos1026.com
-547cc5894ef2b3b8fcaba305db80e60f.safeframe.googles...
 5115165111.arfiles.net
-4bd37cbd8e86d5470c1b317a9cf7beb2.safeframe.googles...
 47.courier-push-apple.com.akadns.net
 47-courier.push.apple.com
 3jb76cr7z1d28v2y.aliyunddos1026.com
@@ -2261,10 +2249,24 @@ a-emea.rfihub.com.akadns.net
 24.courier-push-apple.com.akadns.net
 24-courier.push.apple.com
 1x1.a-mo.net
-1tjr5fqxfmjayd9kawaxvmmz9d4rc1669058080.nuid.imrwo...
-1d197fde3e357a7d61a73280492aa7ae.safeframe.googles...
 16.courier-push-apple.com.akadns.net
 16-courier.push.apple.com
 1.cpm.ak-is2.net
-0c464bf03f7dbf7f29d922c5b49c0686.safeframe.googles...
-0a10fc15e81a5ecf94c3b066bc1b7382.safeframe.googles...
+aa.online-metrix.net
+h-microsoft.online-metrix.net
+h.online-metrix.net
+y6jn8c31bo2ac3du6t4w6pwuugm73si3gf4oy3dl675d5074e9efd544sac.d.aa.online-metrix.net
+y6jn8c31bo2ac3du6t4w6pwuugm73si3gf4oy3dl8f6194716b171f71sac.d.aa.online-metrix.net
+efac085cde9e3f86642fde38aecdfadf.safeframe.googlesyndication.com
+e93e2082ec1339bbf1c54473dcf57e52.safeframe.googlesyndication.com
+db5b7873ee6fb9f804ba3ed64d895c65.safeframe.googlesyndication.com
+ce7289b10112c66629df5f54d9f061a6.safeframe.googlesyndication.com
+c200097098119a0983af4a4ea0c55728.safeframe.googlesyndication.com
+bae43ea43379ee8781077e927f41962c.safeframe.googlesyndication.com
+a1754bd1ba0edfae266ed274506cde83.safeframe.googlesyndication.com
+6202eba2ec0e84dec32ca56f870c2ee5.safeframe.googlesyndication.com
+547cc5894ef2b3b8fcaba305db80e60f.safeframe.googlesyndication.com
+4bd37cbd8e86d5470c1b317a9cf7beb2.safeframe.googlesyndication.com
+1d197fde3e357a7d61a73280492aa7ae.safeframe.googlesyndication.com
+0c464bf03f7dbf7f29d922c5b49c0686.safeframe.googlesyndication.com
+0a10fc15e81a5ecf94c3b066bc1b7382.safeframe.googlesyndication.com
